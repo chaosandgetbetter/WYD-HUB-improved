@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chaosandgetbetter/WYD-Hub/main/WYD%20Hub%20script%22))()
